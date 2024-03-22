@@ -26,7 +26,7 @@ Las distintas tecnologías que hemos aplicado en este proyecto son las siguiente
 
  - En primer lugar, accedimos al portal **Render** para tener un servidor online gratuito que alojase nuestra base de datos. Nos registramos y obtuvimos una serie de credenciales que después nos hacían falta para poder enlazarlo con pgAdmin4.
 
- (insertar foto de Render)
+ ** [Enlace a nuestro Excalidraw](![Imagen del Render](https://github.com/imisstheoldpabl0/comando-Git/assets/105043263/3a493904-b42e-448a-b7f6-b5922d234dc5))
 
  - Seguidamente pasamos a configurar pgAdmin4 con las credenciales que nos aportó Render. Comprobamos que la conexión funcionaba al crear unas tablas cualquiera y, con toda la tecnología base ya controlada, pudimos pasarnos a idear el diagrama del modelo.
 
@@ -48,5 +48,5 @@ Las distintas tecnologías que hemos aplicado en este proyecto son las siguiente
 
 
 ## 4. Colaboradores 
-En este proyecto hemos colaborado conjuntamente [Alberto González](https://github.com/2Tucho), estudiante de Full Stack, y de [Javier Calderón](), estudiante de Data Science.
+En este proyecto hemos colaborado conjuntamente [Alberto González](https://github.com/2Tucho), estudiante de Full Stack, y de [Javier Calderón](https://github.com/JavierCalderon94), estudiante de Data Science.
 
